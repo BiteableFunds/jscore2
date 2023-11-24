@@ -2,3 +2,8 @@
   display: flex;
   font-family: "Verdana", "sans-serif";
 }
+
+.teamdisplay {
+  margin: auto 10px;
+  text-align: center;
+}
