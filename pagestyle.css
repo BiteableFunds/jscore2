@@ -4,6 +4,10 @@
 }
 
 .teamdisplay {
-  margin: auto 10px;
+  margin: auto 5px;
   text-align: center;
+}
+
+.teamdisplay h2 {
+  margin-bottom: 1px;
 }
