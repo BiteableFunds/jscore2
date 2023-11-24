@@ -1,3 +1,5 @@
+alert("Hello, World!")
+
 // HTML Elements
 var changeamt = 0;
 var changeamtdisplay = document.getElementById("changeamtdisplay");
